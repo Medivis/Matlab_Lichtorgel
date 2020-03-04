@@ -7,6 +7,6 @@ In this code i use the NodeMCU:\
 **Vin** for 5V power\
 **GND** for Ground\
 **D6** for LED communication\
-
+.
 
 ![](Assets/Plan.png)

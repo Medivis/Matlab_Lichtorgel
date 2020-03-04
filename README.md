@@ -3,10 +3,10 @@ A simple Lightshow, programmed in matlab. This project allows you to calculate a
 
 # Wireing
 
-In this code i use the NodeMCU:
-**Vin** for 5V power
-**GND** for Ground
-**D6** for LED communication
+In this code i use the NodeMCU:\n
+**Vin** for 5V power\n
+**GND** for Ground\n
+**D6** for LED communication\n
 
 
 ![](Assets/Plan.png)

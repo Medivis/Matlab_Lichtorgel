@@ -1,2 +1,2 @@
-# Matlab_Lichtorgel
-Ein einfaches Lichtorgel Projekt, welches mithilfe eines Microcontrollers LEDs, aus matlab, ansteuern kann
+# Matlab Lichtorgel
+A simple Lightshow, programmed in matlab. This project allows you to calculate a lightshow in matlab from a local .mp3 file. As an output device you can use a Arduino or NodeMCU. 
